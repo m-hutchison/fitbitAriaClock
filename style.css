@@ -1,3 +1,11 @@
+#       This is just a basic clock applet for the FitBit Versa
+#       I'm still learning how this all works, so please be nice
+#                 V1.0 developed by Mathew Hutchison
+#                             13/06/2019
+# 
+#       This file goes in the /resources/ folder when designing,
+#       it's a basic template for the clock face - some things are different to traditional CSS
+
 .background {
   fill: black;
 }
