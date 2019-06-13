@@ -2,6 +2,11 @@
 #       I'm still learning how this all works, so please be nice
 #                 V1.0 developed by Mathew Hutchison
 #                             13/06/2019
+# 
+#       This file goes in the /app/ folder when designing,
+#       it'll show you the current time and date as well as your
+#       current heart rate and step counter (when it works)
+
 
 import clock from "clock";
 import { preferences } from "user-settings";
