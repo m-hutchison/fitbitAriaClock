@@ -1,0 +1,13 @@
+<svg>
+  <image href="bg.png" load="sync" />
+  
+  <text id="fitbitDate"></text>
+  <text id="fitbitTime"></text>
+  
+  <image href="heart.png" x="5%" y="85%" height="32" width="32" />
+    <text id="hrm-data" class="fitbitHR"></text>
+  <text id="fitbitSteps" class="fitbitSteps"></text>
+  <text id="stepStyle">STEPS</text>
+  
+  
+</svg>
