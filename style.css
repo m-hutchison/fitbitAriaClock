@@ -1,0 +1,53 @@
+.background {
+  fill: black;
+}
+
+#fitbitTime {
+  font-size: 100;
+  font-family: SevilleSharp-Book;
+  text-length: 32;
+  text-anchor: middle;
+  fill: white;
+  x: 50%;
+  y: 55%;
+}
+
+#fitbitDate {
+  font-size: 30;
+  font-family: SevilleSharp-Book;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 20%;
+  fill: white;
+}
+
+.fitbitHR {
+  font-family: SevilleSharp-Book;
+  fill: white;
+  text-anchor: middle;
+  text-length: 64;
+  font-size: 20;
+  x: 25%;
+  y: 92%;
+}
+
+.fitbitSteps {
+  font-family: SevilleSharp-Book;
+  fill: white;
+  text-anchor: middle;
+  text-length: 64;
+  font-size: 30;
+  x: 35%;
+  y: 75%;
+}
+
+#stepStyle {
+  font-family: SevilleSharp-Bold;
+  fill: white;
+  text-anchor: middle;
+  text-length: 64;
+  font-size: 30;
+  x: 65%;
+  y: 75%;
+}
